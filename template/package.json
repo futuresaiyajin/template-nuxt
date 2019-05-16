@@ -1,8 +1,8 @@
 {
-  "name": "template-nuxt",
+  "name": "{{ name }}",
   "version": "1.0.0",
-  "description": "Nuxt.js project w/ TailwindCSS, SCSS and TypeScript Support",
-  "author": "FutureSaiyajin",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
   "private": true,
   "scripts": {
     "start": "nuxt",

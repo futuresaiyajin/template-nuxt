@@ -1,26 +1,10 @@
-# template-nuxt
+## Installation
 
-> Nuxt.js project w/ TailwindCSS, SCSS and TypeScript Support
+This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
-## Origin
-
-derived from [sgraewe/nuxt-tailwind](https://github.com/sgraewe/nuxt-tailwind)
-
-## Build Setup
-
-``` bash
+```bash
+$ vue init futuresaiyajin/template-nuxt my-project
+$ cd my-project
 # install dependencies
-$ yarn
-
-# serve with hot reload at localhost:3000
-$ yarn start
-
-# build for production and launch server
-$ yarn build
-$ yarn serve
-
-# generate static project
-$ yarn generate
+$ npm install # yarn install
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
