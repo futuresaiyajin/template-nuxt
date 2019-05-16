@@ -2,10 +2,6 @@
 
 > {{ description }}
 
-## Origin
-
-derived from [sgraewe/nuxt-tailwind](https://github.com/sgraewe/nuxt-tailwind)
-
 ## Build Setup
 
 ``` bash

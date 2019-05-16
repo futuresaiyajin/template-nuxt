@@ -1,3 +1,7 @@
+## Origin
+
+derived from [sgraewe/nuxt-tailwind](https://github.com/sgraewe/nuxt-tailwind)
+
 ## Installation
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
